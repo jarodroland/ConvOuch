@@ -1,0 +1,488 @@
+/Volumes/My4TB/CQ500/CQ500-CT-1/Unknown Study/CT 2.55mm
+/Volumes/My4TB/CQ500/CQ500-CT-10/Unknown Study/CT PLAIN THIN
+/Volumes/My4TB/CQ500/CQ500-CT-100/Unknown Study/CT Plain THIN
+/Volumes/My4TB/CQ500/CQ500-CT-101/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-102/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-103/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-104/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-105/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-106/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-107/Unknown Study/CT 55mm Plain-2
+/Volumes/My4TB/CQ500/CQ500-CT-108/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-109/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-11/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-110/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-111/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-112/Unknown Study/CT Plain THIN
+/Volumes/My4TB/CQ500/CQ500-CT-113/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-114/Unknown Study/CT Plain THIN
+/Volumes/My4TB/CQ500/CQ500-CT-115/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-116/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-117/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-118/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-119/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-12/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-121/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-122/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-123/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-124/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-125/Unknown Study/CT 2.55mm
+/Volumes/My4TB/CQ500/CQ500-CT-126/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-127/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-128/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-129/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-13/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-130/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-131/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-132/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-133/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-134/Unknown Study/CT HELICAL
+/Volumes/My4TB/CQ500/CQ500-CT-135/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-136/Unknown Study/CT 2.55mm
+/Volumes/My4TB/CQ500/CQ500-CT-137/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-138/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-139/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-14/Unknown Study/CT Plain THIN
+/Volumes/My4TB/CQ500/CQ500-CT-140/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-141/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-142/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-143/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-144/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-145/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-146/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-147/Unknown Study/CT 2.55mm-2
+/Volumes/My4TB/CQ500/CQ500-CT-148/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-149/Unknown Study/CT 0.625mm-3
+/Volumes/My4TB/CQ500/CQ500-CT-15/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-150/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-151/Unknown Study/CT Plain THIN
+/Volumes/My4TB/CQ500/CQ500-CT-152/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-153/Unknown Study/CT PLAIN THIN
+/Volumes/My4TB/CQ500/CQ500-CT-154/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-155/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-156/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-157/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-158/Unknown Study/CT PLAIN THIN
+/Volumes/My4TB/CQ500/CQ500-CT-159/Unknown Study/CT 0.625mm-2
+/Volumes/My4TB/CQ500/CQ500-CT-16/Unknown Study/CT PLAIN THIN
+/Volumes/My4TB/CQ500/CQ500-CT-160/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-161/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-162/Unknown Study/CT PLAIN THIN-2
+/Volumes/My4TB/CQ500/CQ500-CT-163/Unknown Study/CT Thin Plain
+/Volumes/My4TB/CQ500/CQ500-CT-164/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-165/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-166/Unknown Study/CT 0.625mm-2
+/Volumes/My4TB/CQ500/CQ500-CT-167/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-168/Unknown Study/CT BRAIN PLAIN
+/Volumes/My4TB/CQ500/CQ500-CT-169/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-17/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-170/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-171/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-172/Unknown Study/CT 5 MM
+/Volumes/My4TB/CQ500/CQ500-CT-173/Unknown Study/CT 2.55mm-2
+/Volumes/My4TB/CQ500/CQ500-CT-174/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-175/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-176/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-177/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-178/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-179/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-18/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-180/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-181/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-182/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-183/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-184/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-185/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-186/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-187/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-188/Unknown Study/CT 0.625mm-3
+/Volumes/My4TB/CQ500/CQ500-CT-189/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-19/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-190/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-191/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-192/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-193/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-194/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-195/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-196/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-197/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-198/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-199/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-2/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-20/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-200/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-201/Unknown Study/CT PLAIN THIN
+/Volumes/My4TB/CQ500/CQ500-CT-202/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-203/Unknown Study/CT Plain THIN
+/Volumes/My4TB/CQ500/CQ500-CT-204/Unknown Study/CT PLAIN THIN
+/Volumes/My4TB/CQ500/CQ500-CT-205/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-206/Unknown Study/CT SOFT THIN
+/Volumes/My4TB/CQ500/CQ500-CT-207/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-208/Unknown Study/CT 2.55mm
+/Volumes/My4TB/CQ500/CQ500-CT-209/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-21/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-210/Unknown Study/CT Plain THIN
+/Volumes/My4TB/CQ500/CQ500-CT-211/Unknown Study/CT 0.625mm-3
+/Volumes/My4TB/CQ500/CQ500-CT-212/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-213/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-214/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-215/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-216/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-217/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-218/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-219/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-22/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-220/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-221/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-222/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-223/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-224/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-225/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-226/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-227/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-228/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-229/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-23/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-230/Unknown Study/CT SOFT THIN
+/Volumes/My4TB/CQ500/CQ500-CT-231/Unknown Study/CT 55mm Plain-2
+/Volumes/My4TB/CQ500/CQ500-CT-232/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-233/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-234/Unknown Study/CT 55mm Plain-2
+/Volumes/My4TB/CQ500/CQ500-CT-235/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-236/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-237/Unknown Study/CT PLAIN
+/Volumes/My4TB/CQ500/CQ500-CT-238/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-239/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-24/Unknown Study/CT 2.55mm
+/Volumes/My4TB/CQ500/CQ500-CT-240/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-241/Unknown Study/CT PLAIN THIN
+/Volumes/My4TB/CQ500/CQ500-CT-242/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-243/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-244/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-245/Unknown Study/CT 2.55mm
+/Volumes/My4TB/CQ500/CQ500-CT-246/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-247/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-248/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-249/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-25/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-250/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-251/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-252/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-253/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-254/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-255/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-256/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-257/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-258/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-259/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-26/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-260/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-261/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-262/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-263/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-264/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-265/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-266/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-267/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-268/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-269/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-27/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-270/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-271/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-272/Unknown Study/CT PLAIN THIN
+/Volumes/My4TB/CQ500/CQ500-CT-273/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-274/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-275/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-276/Unknown Study/CT PRE CONTRAST THIN
+/Volumes/My4TB/CQ500/CQ500-CT-277/Unknown Study/CT 0.625mm-2
+/Volumes/My4TB/CQ500/CQ500-CT-278/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-279/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-28/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-280/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-281/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-282/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-283/Unknown Study/CT PLAIN THIN
+/Volumes/My4TB/CQ500/CQ500-CT-284/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-285/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-286/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-287/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-288/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-289/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-29/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-290/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-291/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-292/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-293/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-294/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-295/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-296/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-297/Unknown Study/CT 2.55mm
+/Volumes/My4TB/CQ500/CQ500-CT-298/Unknown Study/CT Thin Bone
+/Volumes/My4TB/CQ500/CQ500-CT-299/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-3/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-30/Unknown Study/CT PLAIN THIN
+/Volumes/My4TB/CQ500/CQ500-CT-300/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-301/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-302/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-303/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-304/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-305/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-306/Unknown Study/CT Plain THIN
+/Volumes/My4TB/CQ500/CQ500-CT-307/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-308/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-309/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-31/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-310/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-311/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-312/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-313/Unknown Study/CT PLAIN
+/Volumes/My4TB/CQ500/CQ500-CT-314/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-315/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-316/Unknown Study/CT 0.625mm
+/Volumes/My4TB/CQ500/CQ500-CT-317/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-318/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-319/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-32/Unknown Study/CT 0.625mm-2
+/Volumes/My4TB/CQ500/CQ500-CT-320/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-321/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-322/Unknown Study/CT Plain THIN
+/Volumes/My4TB/CQ500/CQ500-CT-323/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-324/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-325/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-326/Unknown Study/CT 2.55mm-2
+/Volumes/My4TB/CQ500/CQ500-CT-327/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-328/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-329/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-33/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-330/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-331/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-332/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-333/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-334/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-335/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-337/Unknown Study/CT 2.55mm-4
+/Volumes/My4TB/CQ500/CQ500-CT-338/Unknown Study/CT PLAIN THIN
+/Volumes/My4TB/CQ500/CQ500-CT-339/Unknown Study/CT PLAIN THIN
+/Volumes/My4TB/CQ500/CQ500-CT-34/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-340/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-341/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-342/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-343/Unknown Study/CT Thin Plain
+/Volumes/My4TB/CQ500/CQ500-CT-344/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-345/Unknown Study/CT 0.625mm-2
+/Volumes/My4TB/CQ500/CQ500-CT-346/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-347/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-348/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-349/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-35/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-350/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-351/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-352/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-353/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-354/Unknown Study/CT PLAIN THIN
+/Volumes/My4TB/CQ500/CQ500-CT-355/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-356/Unknown Study/CT PLAIN THIN
+/Volumes/My4TB/CQ500/CQ500-CT-357/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-358/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-359/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-36/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-360/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-361/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-362/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-363/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-364/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-365/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-366/Unknown Study/CT Plain THIN
+/Volumes/My4TB/CQ500/CQ500-CT-367/Unknown Study/CT 55mm Plain-2
+/Volumes/My4TB/CQ500/CQ500-CT-368/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-369/Unknown Study/CT C-2
+/Volumes/My4TB/CQ500/CQ500-CT-37/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-370/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-371/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-372/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-373/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-374/Unknown Study/CT Plain THIN
+/Volumes/My4TB/CQ500/CQ500-CT-375/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-376/Unknown Study/CT 2.55mm-2
+/Volumes/My4TB/CQ500/CQ500-CT-377/Unknown Study/CT 2.55mm
+/Volumes/My4TB/CQ500/CQ500-CT-378/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-379/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-38/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-380/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-381/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-382/Unknown Study/CT 2.55mm
+/Volumes/My4TB/CQ500/CQ500-CT-383/Unknown Study/CT 0.625mm-2
+/Volumes/My4TB/CQ500/CQ500-CT-384/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-385/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-386/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-387/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-388/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-389/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-39/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-390/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-391/Unknown Study/CT HELICAL
+/Volumes/My4TB/CQ500/CQ500-CT-392/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-393/Unknown Study/CT Thin Plain
+/Volumes/My4TB/CQ500/CQ500-CT-394/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-395/Unknown Study/CT 55mm Plain-2
+/Volumes/My4TB/CQ500/CQ500-CT-396/Unknown Study/CT 0.625mm-2
+/Volumes/My4TB/CQ500/CQ500-CT-397/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-398/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-399/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-4/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-40/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-400/Unknown Study/CT 2.55mm-2
+/Volumes/My4TB/CQ500/CQ500-CT-401/Unknown Study/CT 0.625mm-2
+/Volumes/My4TB/CQ500/CQ500-CT-402/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-403/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-404/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-405/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-406/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-407/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-408/Unknown Study/CT BRAIN PLAIN
+/Volumes/My4TB/CQ500/CQ500-CT-409/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-41/Unknown Study/CT HELICAL
+/Volumes/My4TB/CQ500/CQ500-CT-410/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-411/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-412/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-413/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-414/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-415/Unknown Study/CT 2.55mm
+/Volumes/My4TB/CQ500/CQ500-CT-416/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-417/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-418/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-419/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-42/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-420/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-421/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-422/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-423/Unknown Study/CT 5mm-3
+/Volumes/My4TB/CQ500/CQ500-CT-424/Unknown Study/CT CECT THIN
+/Volumes/My4TB/CQ500/CQ500-CT-425/Unknown Study/CT 0.625mm-2
+/Volumes/My4TB/CQ500/CQ500-CT-426/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-427/Unknown Study/CT 2.55mm-2
+/Volumes/My4TB/CQ500/CQ500-CT-428/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-429/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-43/Unknown Study/CT 2.55mm
+/Volumes/My4TB/CQ500/CQ500-CT-430/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-431/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-432/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-433/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-434/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-435/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-436/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-437/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-438/Unknown Study/CT 2.55mm
+/Volumes/My4TB/CQ500/CQ500-CT-439/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-44/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-440/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-441/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-442/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-443/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-444/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-445/Unknown Study/CT Plain THIN
+/Volumes/My4TB/CQ500/CQ500-CT-446/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-447/Unknown Study/CT BRAIN PLAIN
+/Volumes/My4TB/CQ500/CQ500-CT-448/Unknown Study/CT PLAIN THIN
+/Volumes/My4TB/CQ500/CQ500-CT-449/Unknown Study/CT 0.625mm-2
+/Volumes/My4TB/CQ500/CQ500-CT-45/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-450/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-451/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-452/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-453/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-454/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-455/Unknown Study/CT PLAIN THIN
+/Volumes/My4TB/CQ500/CQ500-CT-456/Unknown Study/CT 0.625mm
+/Volumes/My4TB/CQ500/CQ500-CT-457/Unknown Study/CT 2.55mm
+/Volumes/My4TB/CQ500/CQ500-CT-458/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-459/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-46/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-460/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-461/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-462/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-463/Unknown Study/CT 55mm Plain-2
+/Volumes/My4TB/CQ500/CQ500-CT-464/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-465/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-466/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-467/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-468/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-469/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-47/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-470/Unknown Study/CT 5 MM PRE CONTRAST-2
+/Volumes/My4TB/CQ500/CQ500-CT-471/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-472/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-473/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-474/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-475/Unknown Study/CT PLAIN THIN
+/Volumes/My4TB/CQ500/CQ500-CT-476/Unknown Study/CT BRAIN PLAIN
+/Volumes/My4TB/CQ500/CQ500-CT-477/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-478/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-479/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-48/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-480/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-481/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-482/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-483/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-484/Unknown Study/CT Plain THIN
+/Volumes/My4TB/CQ500/CQ500-CT-485/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-486/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-487/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-488/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-489/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-49/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-490/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-5/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-50/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-51/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-52/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-53/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-54/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-55/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-56/Unknown Study/CT 2.55mm-2
+/Volumes/My4TB/CQ500/CQ500-CT-57/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-58/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-59/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-6/Unknown Study/CT Thin Details
+/Volumes/My4TB/CQ500/CQ500-CT-60/Unknown Study/CT 0.625mm-2
+/Volumes/My4TB/CQ500/CQ500-CT-61/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-62/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-63/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-64/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-65/Unknown Study/CT 2.55mm
+/Volumes/My4TB/CQ500/CQ500-CT-66/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-67/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-68/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-69/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-7/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-70/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-71/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-72/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-73/Unknown Study/CT DE THIN
+/Volumes/My4TB/CQ500/CQ500-CT-74/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-75/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-76/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-77/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-78/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-79/Unknown Study/CT PLAIN THIN
+/Volumes/My4TB/CQ500/CQ500-CT-8/Unknown Study/CT HELICAL
+/Volumes/My4TB/CQ500/CQ500-CT-80/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-81/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-82/Unknown Study/CT PLAIN THIN
+/Volumes/My4TB/CQ500/CQ500-CT-83/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-84/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-85/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-86/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-87/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-88/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-89/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-9/Unknown Study/CT 55mm Plain
+/Volumes/My4TB/CQ500/CQ500-CT-90/Unknown Study/CT 5mm
+/Volumes/My4TB/CQ500/CQ500-CT-91/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-92/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-93/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-94/Unknown Study/CT Plain 3mm
+/Volumes/My4TB/CQ500/CQ500-CT-95/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-96/Unknown Study/CT Plain
+/Volumes/My4TB/CQ500/CQ500-CT-97/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-98/Unknown Study/CT PRE CONTRAST 5MM STD
+/Volumes/My4TB/CQ500/CQ500-CT-99/Unknown Study/CT PRE CONTRAST 5MM STD
