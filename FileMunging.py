@@ -64,5 +64,5 @@ for dir_entry in os.scandir(path = data_dir):
 
 
         # convert the chosen study folder to nifti for further processing
-        print(dir_entry.path + "/" + subject_dir_dict[dir_entry.name][0][0])
+        print(dir_entry.path + "/Unknown Study/" + subject_dir_dict[dir_entry.name][0][0])
 
