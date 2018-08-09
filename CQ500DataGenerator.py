@@ -3,14 +3,14 @@ import keras
 
 class DataGenerator(keras.utils.Sequence):
     'Generates data for Keras'
-    def __init__(self, ID_list, batch_size=10, dim=(224, 224), n_channels=3, n_classes=1, shuffle=True):
+    def __init__(self, ID_list, batch_size=14, dim=(224, 224), n_channels=3, shuffle=True): #n_classes=1, 
         'Initialization'
         self.data_dir = '/Users/zhengma/Documents/ConvOuch/Data/'
         self.dim = dim
         self.batch_size = batch_size
         self.ID_list = ID_list
         self.n_channels = n_channels
-        self.n_classes = n_classes
+        # self.n_classes = n_classes
         self.shuffle = shuffle
         self.on_epoch_end()
 
@@ -55,6 +55,8 @@ class DataGenerator(keras.utils.Sequence):
             batch_labels[i] = int(data_dict['label'])
 
 
-        return batch_samples, keras.utils.to_categorical(batch_labels, num_classes=self.n_classes)
+        # return batch_samples, keras.utils.to_categorical(batch_labels, num_classes=self.n_classes)
+        return batch_samples, batch_labels
+
 
 

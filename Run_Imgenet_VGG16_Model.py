@@ -31,6 +31,11 @@ for item in all_Slices:
     subj_id = subj_match.group(1)
     all_IDs = all_IDs.union([subj_id])
 
+# use half of the IDs for testing
+all_IDs = list(all_IDs)
+half = int(np.floor(len(all_IDs)/2))
+all_IDs = all_IDs[0:half]
+
 all_IDs_slices = list()
 for subj_id in all_IDs:
     for slice_num in range(num_slices_per_subject):
@@ -67,6 +72,12 @@ validation_generator = DataGenerator(validation_IDs)
 base_model = VGG16(include_top=False, weights='imagenet', 
                     input_tensor=None, input_shape=(224, 224, 3), pooling=None)
 
+#now we can start to fine-tune the model
+# first: train only the top layers (which were randomly initialized)
+# i.e. freeze all convolutional InceptionV3 layers
+for layer in base_model.layers:
+    layer.trainable = False
+
 x = base_model.output
 #flatten it
 x = Flatten()(x)
@@ -80,16 +91,9 @@ predictions = Dense(1, kernel_initializer='normal', activation='sigmoid')(x)
 # this is the model we will train
 model = Model(inputs=base_model.input, outputs=predictions)
 
-#now we can start to fine-tune the model
-# first: train only the top layers (which were randomly initialized)
-# i.e. freeze all convolutional InceptionV3 layers
-for layer in base_model.layers:
-    layer.trainable = False
-    
 # compile the model (should be done *after* setting layers to non-trainable)
 model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
-model.fit_generator(generator=training_generator, validation_data=validation_generator, use_multiprocessing=False)
-
-# train_img, train_label, validation_split=0.1, epochs=1, batch_size=5)    
-# model.save('FirstModel.h5')
+model.fit_generator(generator=training_generator, validation_data=validation_generator, epochs=10, use_multiprocessing=False)
+    
+model.save(data_dir + 'FirstModel.h5')
 
