@@ -5,7 +5,7 @@ class DataGenerator(keras.utils.Sequence):
     'Generates data for Keras'
     def __init__(self, ID_list, batch_size=10, dim=(224, 224), n_channels=3, n_classes=1, shuffle=True):
         'Initialization'
-        self.data_dir = '/Volumes/My4TB/CQ500/Data/'
+        self.data_dir = '/Users/zhengma/Documents/ConvOuch/Data/'
         self.dim = dim
         self.batch_size = batch_size
         self.ID_list = ID_list
