@@ -20,7 +20,7 @@ from keras.applications.vgg16 import decode_predictions
 from CQ500DataGenerator import DataGenerator
 
 # define our variables
-data_dir = '/Volumes/My4TB/CQ500/Data/'
+data_dir = '/Users/zhengma/Documents/ConvOuch/Data/'
 num_slices_per_subject = 28       # always using 28 slices per subject
 
 # create list of IDs from all slices
