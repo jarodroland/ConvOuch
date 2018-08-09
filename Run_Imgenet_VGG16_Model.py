@@ -11,7 +11,7 @@ from keras.layers import Dense
 from keras.layers import Conv2D
 from keras.layers import MaxPool2D
 from keras.layers import Flatten
-from keras.optimizers import Adam
+from keras import optimizers
 from keras.layers import Dropout
 from keras.applications.vgg16 import VGG16
 from keras.utils.vis_utils import plot_model
@@ -33,7 +33,7 @@ for item in all_Slices:
 
 # use half of the IDs for testing
 all_IDs = list(all_IDs)
-half = int(np.floor(len(all_IDs)/2))
+half = int(np.floor(len(all_IDs)/15))
 all_IDs = all_IDs[0:half]
 
 all_IDs_slices = list()
@@ -82,18 +82,20 @@ x = base_model.output
 #flatten it
 x = Flatten()(x)
 # let's add a fully-connected layer
-x = Dense(4096, activation='relu')(x)
+x = Dense(200, activation='relu')(x)
 #another fully-connected layer
-x = Dense(4096, activation='relu')(x)
+x = Dense(200, activation='relu')(x)
 # and a logistic layer -- let's say we have 200 classes
-predictions = Dense(1, kernel_initializer='normal', activation='sigmoid')(x)
+predictions = Dense(2, activation='softmax')(x)
 
 # this is the model we will train
 model = Model(inputs=base_model.input, outputs=predictions)
 
+my_optimizer=optimizers.Adam(lr=0.0001)
+
 # compile the model (should be done *after* setting layers to non-trainable)
-model.compile(loss='binary_crossentropy', optimizer='adam', metrics=['accuracy'])
-model.fit_generator(generator=training_generator, validation_data=validation_generator, epochs=10, use_multiprocessing=False)
+model.compile(loss='categorical_crossentropy', optimizer=my_optimizer, metrics=['accuracy'])
+model.fit_generator(generator=training_generator, validation_data=validation_generator, epochs=5, use_multiprocessing=False)
     
 model.save(data_dir + 'FirstModel.h5')
 
