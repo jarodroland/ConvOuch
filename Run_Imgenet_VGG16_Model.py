@@ -16,12 +16,21 @@ from keras.layers import Dropout
 from keras.applications.vgg16 import VGG16
 from keras.utils.vis_utils import plot_model
 from keras.applications.vgg16 import decode_predictions
+from keras.layers.advanced_activations import LeakyReLU
 
 from CQ500DataGenerator import DataGenerator
 
+import pickle
+
 # define our variables
 data_dir = '/Users/zhengma/Documents/ConvOuch/Data/'
-num_slices_per_subject = 28       # always using 28 slices per subject
+num_slices_original = 28
+num_slices_per_subject = 24       # always using 16 slices per subject
+start_slice = (num_slices_original - num_slices_per_subject)/2
+end_slice = start_slice + num_slices_per_subject
+
+start_slice = int(start_slice)
+end_slice = int(end_slice)
 
 # create list of IDs from all slices
 all_IDs = set()
@@ -33,12 +42,12 @@ for item in all_Slices:
 
 # use half of the IDs for testing
 all_IDs = list(all_IDs)
-half = int(np.floor(len(all_IDs)/15))
+half = int(np.floor(len(all_IDs)/10*9))
 all_IDs = all_IDs[0:half]
 
 all_IDs_slices = list()
 for subj_id in all_IDs:
-    for slice_num in range(num_slices_per_subject):
+    for slice_num in range(start_slice, end_slice):
         all_IDs_slices.append(subj_id + "_Slice" + str(slice_num))
 
 
@@ -81,21 +90,32 @@ for layer in base_model.layers:
 x = base_model.output
 #flatten it
 x = Flatten()(x)
+x = Dropout(0.2)(x)
 # let's add a fully-connected layer
-x = Dense(200, activation='relu')(x)
+x = Dense(100, activation='relu')(x)
+x = Dropout(0.2)(x)
+#x = LeakyReLU(alpha=.01)(x)
+x = Dense(100, activation='relu')(x)
+x = Dropout(0.2)(x)
+
 #another fully-connected layer
-x = Dense(200, activation='relu')(x)
+#x = Dense(200, activation='relu')(x)
 # and a logistic layer -- let's say we have 200 classes
 predictions = Dense(2, activation='softmax')(x)
 
 # this is the model we will train
 model = Model(inputs=base_model.input, outputs=predictions)
 
-my_optimizer=optimizers.Adam(lr=0.0001)
+print(model.summary())
+
+my_optimizer=optimizers.Adam(lr=0.00001)
 
 # compile the model (should be done *after* setting layers to non-trainable)
 model.compile(loss='categorical_crossentropy', optimizer=my_optimizer, metrics=['accuracy'])
-model.fit_generator(generator=training_generator, validation_data=validation_generator, epochs=5, use_multiprocessing=False)
+history = model.fit_generator(generator=training_generator, validation_data=validation_generator, epochs=5, use_multiprocessing=False)
     
-model.save(data_dir + 'FirstModel.h5')
+model.save('FifthModel.h5')
+
+with open('FifthModel_trainHistoryDict', 'wb') as file_pi:
+        pickle.dump(history.history, file_pi)
 
